@@ -1,0 +1,1939 @@
+.wrapper{
+	border:2px solid transparent;
+	background-image:url(../Image/adv_bg.JPG);
+	width:1100px;
+	height:1200px;
+	position: relative;
+	top:0px;
+	left:100px;
+}
+header{
+	border: 1px solid red transparent;
+	background-image:url(../Image/adv_bg.JPG);
+	width:100%;
+	height: 120px;
+}
+.Advantage{
+	border: 1px solid transparent;
+	background-image: url(../Image/adv_logo_hd.GIF);
+	background-repeat: no-repeat;
+	width: 255px;
+	height: 50px;
+	margin:12px 10px 20px 0px;;	
+}
+.Rent{
+	padding-top:0px;
+	padding-left:105px;	
+}
+.Search{
+	border:1px solid;
+	width:120px;
+	height:20px;
+	position: absolute;
+	top:35px;
+	right:90px;	
+}
+.Sr{
+	padding-top:fixed;
+	padding-left:10px;
+}
+.Srbtn{
+	border:1px solid transparent;
+	background-image: url(../Image/search_btn.GIF);
+	background-repeat: no-repeat;
+	width:20px;
+	height:20px;
+	position: absolute;
+	top:0px;
+	left:100px;
+}
+.Lang{
+	border:1px solid transparent;
+	width:70px;
+	height:20px;
+	position:absolute;
+	top:35px;
+	right:254px;
+	
+}
+.Countries{
+	border:1px solid transparent;
+	width:110px;
+	height:20px;
+	position: absolute;
+	top:35px;
+	right:341px;
+}
+.Nav ul li:hover{
+	color: blue;
+	background-color: yellow;
+}
+nav ul{
+	list-style:none;
+    width:976px;
+    height:30px;
+    background-color: gray;
+    color:white;
+    margin:-50px 2px 2px 0px;
+}
+
+li{
+	float: left;
+	margin:7px 2px 2px 37px;
+}
+.StepOne{
+	border:1px solid transparent;
+	background-color: #ADD8E6;
+	color: white;
+	width:190px;
+	height:18px;
+	position: absolute;
+	top: 125px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.DividerOne{
+	border:1px solid transparent;
+	background-image: url(../Image/resStepDivider.GIF);
+	background-repeat: no-repeat;
+	width: 13px;
+	height:35px;
+	position: absolute;
+	top:125px;
+	left: 179px;
+}
+.StepTwo{
+	border:1px solid transparent;
+	background-color: #4169E1;
+	color: white;
+	width:350px;
+	height:18px;
+	position: absolute;
+	top: 125px;
+	left:190px;
+	text-align: center;
+	padding-top:15px;
+}
+.DividerTwo{
+	border:1px solid transparent;
+	background-image: url(../Image/resStepDividerActive.GIF);
+	background-repeat: no-repeat;
+	width: 13px;
+	height:35px;
+	position: absolute;
+	top:125px;
+	left: 540px;
+}
+.StepThree{
+	border:1px solid transparent;
+	background-color:#F5FFFA;
+	width:250px;
+	height:18px;
+	position: absolute;
+	top: 125px;
+	left:550px;
+	text-align: center;
+	padding-top:15px;
+}
+.StepFour{
+	border:1px solid transparent;
+	background-color:#F5FFFA;	
+	width:226px;
+	height:18px;
+	position: absolute;
+	top: 125px;
+	left:790px;
+	text-align: center;
+	padding-top:15px;
+}
+.CarOne{
+	border:1px solid transparent;
+	background-image: url(../Image/bg-grad.GIF);
+	width:700px;
+	height:85px;
+	position: absolute;
+	top: 178px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.CaronePD{
+	border:1px solid transparent;
+	width:60px;
+	height:27px;
+	position: absolute;
+	top: 14px;
+	left:24px;
+	text-align: center;
+	font-size: 27px;
+	margin: -12px 10px 10px 11px;
+}
+.ValueOne{
+	border:1px solid transparent;
+	width:65px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 31px 10px 10px 20px;
+}
+.Select{
+	border:1px solid transparent;
+	background-color: blue;
+	color: white;
+	width:69px;
+	height:19px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 57px 10px 10px 20px;
+}
+.Total{
+	border:1px solid transparent;
+	width:92px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 20px;
+}
+.CaroneImage{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/Car1.GIF);
+	width:152px;
+	height:80px;
+	position: absolute;
+	top: 0px;
+	left:102px;
+	text-align: center;
+	margin: 2px 10px 10px 25px;
+}
+.DesccarOne{
+	border:1px solid transparent;
+	width:109px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 140px;
+}
+.CaroneMan{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_man.GIF);
+	background-repeat: no-repeat;
+	width:9px;
+	height:18px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:7px 10px 10px 340px;
+}
+.CaronesbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_sm_scase.GIF);
+	background-repeat: no-repeat;
+	width:14px;
+	height:11px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:30px 10px 10px 334px;
+}
+.CaronelbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_lg_scase.GIF);
+	background-repeat: no-repeat;
+	width:19px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin: 46px 10px 10px 329px;
+}
+.CaronePass{
+	border:1px solid transparent;
+	width:72px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size:12px;
+	margin:7px 10px 10px 353px;
+}
+.CaronesBag{
+	border:1px solid transparent;
+	width:94px;
+	height:12px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:28px 10px 10px 354px;
+}
+.CaronelBag{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 355px;
+}
+.CaroneTrans{
+	border:1px solid transparent;
+	width:117px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:7px 10px 10px 503px;
+}
+.CaroneAC{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:27px 10px 10px 503px;
+}
+.CaroneMilege{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 503px;
+}
+.CarTwo{
+	border:1px solid transparent;
+	background-image:;
+	background-color:#F0F8FF;
+	width:700px;
+	height:85px;
+	position: absolute;
+	top:279px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.CartwoPD{
+	border:1px solid transparent;
+	width:60px;
+	height:27px;
+	position: absolute;
+	top: 14px;
+	left:24px;
+	text-align: center;
+	font-size: 27px;
+	margin: -12px 10px 10px 11px;
+}
+.CartwoValue{
+	border:1px solid transparent;
+	width:65px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 31px 10px 10px 20px;
+}
+.CartwoSelect{
+	border:1px solid transparent;
+	background-color: blue;
+	color: white;
+	width:69px;
+	height:19px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 57px 10px 10px 20px;
+}
+.CartwoTotal{
+	border:1px solid transparent;
+	width:92px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 20px;
+}
+.CartwoImage{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/Car2.GIF);
+	width:152px;
+	height:80px;
+	position: absolute;
+	top: 0px;
+	left:102px;
+	text-align: center;
+	margin: 2px 10px 10px 25px;
+}
+.Desccartwo{
+	border:1px solid transparent;
+	width:109px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 140px;
+}
+.CartwoMan{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_man.GIF);
+	background-repeat: no-repeat;
+	width:9px;
+	height:18px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:7px 10px 10px 340px;
+}
+.CartwosbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_sm_scase.GIF);
+	background-repeat: no-repeat;
+	width:14px;
+	height:11px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:30px 10px 10px 334px;
+}
+.CartwolbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_lg_scase.GIF);
+	background-repeat: no-repeat;
+	width:19px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin: 46px 10px 10px 329px;
+}
+.CartwoPass{
+	border:1px solid transparent;
+	width:72px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size:12px;
+	margin:7px 10px 10px 353px;
+}
+.CartwosBag{
+	border:1px solid transparent;
+	width:94px;
+	height:12px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:28px 10px 10px 354px;
+}
+.CartwolBag{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 355px;
+}
+.CartwoTrans{
+	border:1px solid transparent;
+	width:117px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:7px 10px 10px 503px;
+}
+.CartwoAC{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:27px 10px 10px 503px;
+}
+.CartwoMilege{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 503px;
+}
+.CarThree{
+	border:1px solid transparent;
+	background-image: url(../Image/bg-grad.GIF);
+	width:700px;
+	height:85px;
+	position: absolute;
+	top:380px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.CarthreePD{
+	border:1px solid transparent;
+	width:60px;
+	height:27px;
+	position: absolute;
+	top: 14px;
+	left:24px;
+	text-align: center;
+	font-size: 27px;
+	margin: -12px 10px 10px 11px;
+}
+.CarthreeValue{
+	border:1px solid transparent;
+	width:65px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 31px 10px 10px 20px;
+}
+.CarthreeSelect{
+	border:1px solid transparent;
+	background-color: blue;
+	color: white;
+	width:69px;
+	height:19px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 57px 10px 10px 20px;
+}
+.CarthreeTotal{
+	border:1px solid transparent;
+	width:88px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 12px;
+	margin: 85px 10px 10px 13px;
+}
+.CarthreeImage{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/Car3.GIF);
+	width:152px;
+	height:80px;
+	position: absolute;
+	top: 0px;
+	left:102px;
+	text-align: center;
+	margin: 2px 10px 10px 25px;
+}
+.Desccarthree{
+	border:1px solid transparent;
+	width:109px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 140px;
+}
+.CarthreeMan{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_man.GIF);
+	background-repeat: no-repeat;
+	width:9px;
+	height:18px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:7px 10px 10px 340px;
+}
+.CarthreesbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_sm_scase.GIF);
+	background-repeat: no-repeat;
+	width:14px;
+	height:11px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:30px 10px 10px 334px;
+}
+.CarthreelbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_lg_scase.GIF);
+	background-repeat: no-repeat;
+	width:19px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin: 46px 10px 10px 329px;
+}
+.CarthreePass{
+	border:1px solid transparent;
+	width:72px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size:12px;
+	margin:7px 10px 10px 353px;
+}
+.CarthreesBag{
+	border:1px solid transparent;
+	width:94px;
+	height:12px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:28px 10px 10px 354px;
+}
+.CarthreelBag{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 355px;
+}
+.CarthreeTrans{
+	border:1px solid transparent;
+	width:117px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:7px 10px 10px 503px;
+}
+.CarthreeAC{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:27px 10px 10px 503px;
+}
+.CarthreeDual{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 503px;
+}
+.CarthreeABS{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:67px 10px 10px 503px;
+}
+.CarthreeMilege{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:85px 10px 10px 503px;
+}
+.CarFour{
+	border:1px solid transparent;
+	background-color:#F0F8FF;
+	width:700px;
+	height:85px;
+	position: absolute;
+	top:481px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.CarfourPD{
+	border:1px solid transparent;
+	width:60px;
+	height:27px;
+	position: absolute;
+	top: 14px;
+	left:24px;
+	text-align: center;
+	font-size: 27px;
+	margin: -12px 10px 10px 11px;
+}
+.CarfourValue{
+	border:1px solid transparent;
+	width:65px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 31px 10px 10px 20px;
+}
+.CarfourSelect{
+	border:1px solid transparent;
+	background-color: blue;
+	color: white;
+	width:69px;
+	height:19px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 57px 10px 10px 20px;
+}
+.CarfourTotal{
+	border:1px solid transparent;
+	width:88px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 12px;
+	margin: 85px 10px 10px 13px;
+}
+.CarfourImage{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/Car4.GIF);
+	width:152px;
+	height:80px;
+	position: absolute;
+	top: 0px;
+	left:102px;
+	text-align: center;
+	margin: 2px 10px 10px 25px;
+}
+.Desccarfour{
+	border:1px solid transparent;
+	width:109px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 83px 10px 10px 140px;
+}
+.CarfourMan{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_man.GIF);
+	background-repeat: no-repeat;
+	width:9px;
+	height:18px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:7px 10px 10px 340px;
+}
+.CarfoursbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_sm_scase.GIF);
+	background-repeat: no-repeat;
+	width:14px;
+	height:11px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:30px 10px 10px 334px;
+}
+.CarfourlbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_lg_scase.GIF);
+	background-repeat: no-repeat;
+	width:19px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin: 46px 10px 10px 329px;
+}
+.CarfourPass{
+	border:1px solid transparent;
+	width:72px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size:12px;
+	margin:7px 10px 10px 353px;
+}
+.CarfoursBag{
+	border:1px solid transparent;
+	width:94px;
+	height:12px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:28px 10px 10px 354px;
+}
+.CarfourlBag{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 355px;
+}
+.CarfourTrans{
+	border:1px solid transparent;
+	width:117px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:7px 10px 10px 503px;
+}
+.CarfourAC{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:27px 10px 10px 503px;
+}
+.CarfourDual{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 503px;
+}
+.CarfourABS{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:67px 10px 10px 503px;
+}
+.CarfourMilege{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:85px 10px 10px 503px;
+}
+.CarFive{
+	border:1px solid transparent;
+	background-image: url(../Image/bg-grad.GIF);
+	width:700px;
+	height:84px;
+	position: absolute;
+	top:582px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.CarfivePD{
+	border:1px solid transparent;
+	width:60px;
+	height:27px;
+	position: absolute;
+	top: 14px;
+	left:24px;
+	text-align: center;
+	font-size: 27px;
+	margin: -12px 10px 10px 11px;
+}
+.CarfiveValue{
+	border:1px solid transparent;
+	width:65px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 31px 10px 10px 20px;
+}
+.CarfiveSelect{
+	border:1px solid transparent;
+	background-color: blue;
+	color: white;
+	width:69px;
+	height:19px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 57px 10px 10px 20px;
+}
+.CarfiveTotal{
+	border:1px solid transparent;
+	width:88px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 12px;
+	margin: 85px 10px 10px 13px;
+}
+.CarfiveImage{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/Car5.GIF);
+	width:152px;
+	height:83px;
+	position: absolute;
+	top: 0px;
+	left:102px;
+	text-align: center;
+	margin: 2px 10px 10px 25px;
+}
+.Desccarfive{
+	border:1px solid transparent;
+	width:109px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 140px;
+}
+.CarfiveMan{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_man.GIF);
+	background-repeat: no-repeat;
+	width:9px;
+	height:18px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:7px 10px 10px 340px;
+}
+.CarfivesbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_sm_scase.GIF);
+	background-repeat: no-repeat;
+	width:14px;
+	height:11px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:30px 10px 10px 334px;
+}
+.CarfivelbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_lg_scase.GIF);
+	background-repeat: no-repeat;
+	width:19px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin: 46px 10px 10px 329px;
+}
+.CarfivePass{
+	border:1px solid transparent;
+	width:72px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size:12px;
+	margin:7px 10px 10px 353px;
+}
+.CarfivesBag{
+	border:1px solid transparent;
+	width:94px;
+	height:12px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:28px 10px 10px 354px;
+}
+.CarfivelBag{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 355px;
+}
+.CarfiveTrans{
+	border:1px solid transparent;
+	width:117px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:7px 10px 10px 503px;
+}
+.CarfiveAC{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:27px 10px 10px 503px;
+}
+.CarfiveDual{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 503px;
+}
+.CarfiveABS{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:65px 10px 10px 503px;
+}
+.CarfiveMilege{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:83px 10px 10px 503px;
+}
+.CarSix{
+	border:1px solid transparent;
+	background-color:#F0F8FF;
+	width:700px;
+	height:84px;
+	position: absolute;
+	top: 682px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.CarsixPD{
+	border:1px solid transparent;
+	width:60px;
+	height:27px;
+	position: absolute;
+	top: 14px;
+	left:24px;
+	text-align: center;
+	font-size: 27px;
+	margin: -12px 10px 10px 11px;
+}
+.CarsixValue{
+	border:1px solid transparent;
+	width:65px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 31px 10px 10px 20px;
+}
+.CarsixSelect{
+	border:1px solid transparent;
+	background-color: blue;
+	color: white;
+	width:69px;
+	height:19px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 57px 10px 10px 20px;
+}
+.CarsixTotal{
+	border:1px solid transparent;
+	width:88px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 12px;
+	margin: 85px 10px 10px 13px;
+}
+.CarsixImage{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/Car6.GIF);
+	width:152px;
+	height:83px;
+	position: absolute;
+	top: 0px;
+	left:102px;
+	text-align: center;
+	margin: 2px 10px 10px 25px;
+}
+.Desccarsix{
+	border:1px solid transparent;
+	width:109px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 140px;
+}
+.CarsixMan{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_man.GIF);
+	background-repeat: no-repeat;
+	width:9px;
+	height:18px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:7px 10px 10px 340px;
+}
+.CarsixsbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_sm_scase.GIF);
+	background-repeat: no-repeat;
+	width:14px;
+	height:11px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:30px 10px 10px 334px;
+}
+.CarsixlbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_lg_scase.GIF);
+	background-repeat: no-repeat;
+	width:19px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin: 46px 10px 10px 329px;
+}
+.CarsixPass{
+	border:1px solid transparent;
+	width:72px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size:12px;
+	margin:7px 10px 10px 353px;
+}
+.CarsixsBag{
+	border:1px solid transparent;
+	width:94px;
+	height:12px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:28px 10px 10px 354px;
+}
+.CarsixlBag{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 355px;
+}
+.CarsixTrans{
+	border:1px solid transparent;
+	width:117px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:7px 10px 10px 503px;
+}
+.CarsixAC{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:27px 10px 10px 503px;
+}
+.CarsixDual{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:47px 10px 10px 503px;
+}
+.CarsixABS{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:65px 10px 10px 503px;
+}
+.CarsixMilege{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align:left;
+	font-size:12px;
+	margin:83px 10px 10px 503px;
+}
+.CarSeven{
+	border:1px solid transparent;
+	background-image: url(../Image/bg-grad.GIF);
+	width:700px;
+	height:85px;
+	position: absolute;
+	top:782px;
+	left:0px;
+	text-align: center;
+	padding-top:15px;
+}
+.CarsevenPD{
+	border:1px solid transparent;
+	width:60px;
+	height:27px;
+	position: absolute;
+	top: 14px;
+	left:24px;
+	text-align: center;
+	font-size: 27px;
+	margin: -12px 10px 10px 11px;
+}
+.CarsevenValue{
+	border:1px solid transparent;
+	width:65px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 31px 10px 10px 20px;
+}
+.CarsevenSelect{
+	border:1px solid transparent;
+	background-color: blue;
+	color: white;
+	width:69px;
+	height:19px;
+	position: absolute;
+	top: 0px;
+	left:10px;
+	text-align: center;
+	font-size: 13px;
+	margin: 57px 10px 10px 20px;
+}
+.CarsevenTotal{
+	border:1px solid transparent;
+	width:88px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 12px;
+	margin: 85px 10px 10px 13px;
+}
+.CarsevenImage{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/Car7.GIF);
+	width:152px;
+	height:83px;
+	position: absolute;
+	top: 0px;
+	left:102px;
+	text-align: center;
+	margin: 2px 10px 10px 25px;
+}
+.Desccarseven{
+	border:1px solid transparent;
+	width:109px;
+	height:16px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	font-size: 13px;
+	margin: 85px 10px 10px 140px;
+}
+.CarsevenMan{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_man.GIF);
+	background-repeat: no-repeat;
+	width:9px;
+	height:18px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:7px 10px 10px 340px;
+}
+.CarsevensbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_sm_scase.GIF);
+	background-repeat: no-repeat;
+	width:14px;
+	height:11px;
+	position: absolute;
+	top: 0px;
+	left:5px;
+	text-align: center;
+	margin:30px 10px 10px 334px;
+}
+.CarsevenlbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/icon_lg_scase.GIF);
+	background-repeat: no-repeat;
+	width:19px;
+	height:16px;
+	position: absolute;
+	margin:35px 10px 10px 334px;
+}
+.CarsevenPass{
+	border:1px solid transparent;
+	width:72px;
+	height:16px;
+	position: absolute;	
+	font-size:12px;
+	margin:-7px 10px 10px 358px;
+}
+.CarsevensBag{
+	border:1px solid transparent;
+	width:94px;
+	height:12px;
+	position: absolute;
+	font-size:12px;
+	margin:14px 10px 10px 358px;
+}
+.CarsevenlBag{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	font-size:12px;
+	margin:35px 10px 10px 359px;
+}
+.CarsevenTrans{
+	border:1px solid transparent;
+	width:117px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:-7px 10px 10px 503px;
+}
+.CarsevenAC{
+	border:1px solid transparent;
+	width:92px;
+	height:14px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:14px 10px 10px 503px;
+}
+.CarsevenDual{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:35px 10px 10px 503px;
+}
+.CarsevenABS{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:53px 10px 10px 503px;
+}
+.CarsevenMilege{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	top: 0px;
+	font-size:12px;
+	margin:85px 10px 10px 492px;
+}
+.RightTop{
+	border:1px solid transparent;
+	background-color:#ADD8E6;
+	width:310px;
+	height:287px;
+	position: absolute;
+	top:178px;
+	left:704px;
+	text-align:;
+	padding-top:15px;
+}
+.Itinerary{
+	border:1px solid transparent;
+	width:129px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:15px;
+	margin:12px 10px 10px 21px;
+}
+.Changeitinerary{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:305px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:14px;
+	margin:9px 10px 10px 192px;
+}
+.Pickup{
+	border:1px solid transparent;
+	width:60px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:15px;
+	margin:37px 10px 10px 19px;
+}
+.P-Adress{
+	border:1px solid transparent;
+	width:191px;
+	height:63px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:42px 10px 10px 18px;
+}
+.Return{
+	border:1px solid transparent;
+	width:46px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:105px 10px 10px 18px;
+}
+.R-Adress{
+	border:1px solid transparent;
+	width:257px;
+	height:57px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:112px 10px 10px 18px;
+}
+.P-date{
+	border:1px solid transparent;
+	width:92px;
+	height:18px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:178px 10px 10px 18px;
+}
+.P-day{
+	border:1px solid transparent;
+	width:153px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:200px 10px 10px 18px;
+}
+.R-date{
+	border:1px solid transparent;
+	width:92px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:224px 10px 10px 18px;
+}
+.R-day{
+	border:1px solid transparent;
+	width:154px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:243px 10px 10px 18px;
+}
+.RightDown{
+	border:1px solid transparent;
+	background-image: url(../Image/vehicles/offer.GIF);
+	background-repeat: no-repeat;
+	width:305px;
+	height:185px;
+	position: absolute;
+	top:482px;
+	left:704px;
+	padding-top:15px;
+}
+footer{
+	background-image:url(../Image/footer-bg-grad.PNG);
+	width: 100%;
+	height: 261px;
+	position: relative;
+	top:798px;
+	padding-top: 15px;
+}
+.StayCon{
+	border:1px solid transparent;
+	width:141px;
+	height:19px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:23px 10px 10px 18px;
+}
+.SignUp{
+	border:1px solid transparent;
+	width:54px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:55px 10px 10px 18px;
+}
+.Submitbtn{
+	border:1px solid transparent;
+	background-color:green;
+	color: white;
+	width:65px;
+	height:17px;
+	position: absolute;
+	text-align:center;
+	font-size:13px;
+	margin:57px 10px 10px 207px;
+}
+.ShareImg{
+	border:1px solid transparent;
+	background-image:url(../Image/Share.JPG); 
+	background-repeat: no-repeat;
+	width:32px;
+	height:30px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:91px 10px 10px 18px;
+}
+.FbImg{
+	border:1px solid transparent;
+	background-image: url(../Image/facebook.PNG);
+	background-repeat: no-repeat;
+	width:30px;
+	height:28px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:93px 10px 10px 66px;
+}
+.TwitImg{
+	border:1px solid transparent;
+	background-image: url(../Image/twitter.PNG);
+	background-repeat: no-repeat;
+	width:30px;
+	height:28px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:93px 10px 10px 112px;
+}
+.UtubeImg{
+	border:1px solid transparent;
+	background-image: url(../Image/youtube.PNG);
+	background-repeat: no-repeat;
+	width:30px;
+	height:28px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:93px 10px 10px 156px;
+}
+.PhoneImg{
+	border:1px solid transparent;
+	background-image: url(../Image/phoneIcon.PNG);
+	background-repeat: no-repeat;
+	width:17px;
+	height:30px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:141px 10px 10px 18px;
+}
+.RentCar{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:173px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:14px;
+	margin:149px 10px 10px 45px;
+}
+.FDOne{
+	border:1px solid transparent;
+	background-image: url(../Image/footer-divider-grad.PNG);
+	width:0px;
+	height:168px;
+	position: absolute;
+	text-align:left;
+	font-size:14px;
+	margin:20px 10px 10px 311px;
+}
+.Footerrates{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:144px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:30px 10px 10px 330px;
+}
+.Quote{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:111px;
+	height:15px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:54px 10px 10px 330px;
+}
+.Modify{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:111px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:72px 10px 10px 330px;
+}
+.Review{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:111px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:91px 10px 10px 330px;
+}
+.FooterPass{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:173px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:123px 10px 10px 330px;
+}
+.FooterLoc{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:105px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:155px 10px 10px 330px;
+}
+.FDTwo{
+	border:1px solid transparent;
+	background-image: url(../Image/footer-divider-grad.PNG);
+	width:0px;
+	height:168px;
+	position: absolute;
+	text-align:left;
+	font-size:14px;
+	margin:20px 10px 10px 547px;
+}
+.FooterDeals{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:102px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:30px 10px 10px 570px;
+}
+.FooterCon{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:103px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:61px 10px 10px 570px;
+}
+.CSupport{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:120px;
+	height:18px;
+	position: absolute;
+	text-align:left;
+	font-size:16px;
+	margin:91px 10px 10px 570px;
+}
+.FAQ{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:40px;
+	height:14px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:117px 10px 10px 570px;
+}
+.RequestR{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:85px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:133px 10px 10px 570px;
+}
+.RentalQ{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:117px;
+	height:28px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:152px 10px 10px 570px;
+}
+.FDThree{
+	border:1px solid transparent;
+	background-image: url(../Image/footer-divider-grad.PNG);
+	width:0px;
+	height:168px;
+	position: absolute;
+	text-align:left;
+	font-size:14px;
+	margin:20px 10px 10px 738px;
+}
+.Career{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:50px;
+	height:14px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:30px 10px 10px 760px;
+}
+.Privacy{
+	border:1px  transparent;
+	color:#6495ED;
+	width:70px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:49px 10px 10px 760px;
+}
+.TravelAgnt{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:94px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:70px 10px 10px 760px;
+}
+.SiteMap{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:50px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:92px 10px 10px 760px;
+}
+.BTravel{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:88px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:114px 10px 10px 760px;
+}
+.AccReport{
+	border:1px solid transparent;
+	color:#6495ED;
+	width:81px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:12px;
+	margin:134px 10px 10px 760px;
+}
+.TradM{
+	border:1px solid transparent;
+	width:824px;
+	height:16px;
+	position: absolute;
+	text-align:left;
+	font-size:14px;
+	margin:218px 10px 10px 101px;
+}
